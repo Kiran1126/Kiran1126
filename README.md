@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kiransamanta945@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://docs.google.com/document/d/1r6Obzq9NIQzrqBXtwPPaxLpzEQrt3U1-_iMT061bsUw/edit?usp=sharing](https://docs.google.com/document/d/1r6Obzq9NIQzrqBXtwPPaxLpzEQrt3U1-_iMT061bsUw/edit?usp=sharing))
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1r6Obzq9NIQzrqBXtwPPaxLpzEQrt3U1-_iMT061bsUw/edit?usp=sharing)
 
 - ⚡ Fun fact **Coding can “power up” your brain.**
 
