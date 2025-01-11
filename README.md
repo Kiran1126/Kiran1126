@@ -7,13 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [https://kiran1126.github.io/Portfolio/](https://kiran1126.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://kiran1126.github.io/Portfolio/)
 
 - 💬 Ask me about **DSA, Fullstack Development**
 
 - 📫 How to reach me **kiransamanta945@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1r6Obzq9NIQzrqBXtwPPaxLpzEQrt3U1-_iMT061bsUw/edit?usp=sharing](https://docs.google.com/document/d/1r6Obzq9NIQzrqBXtwPPaxLpzEQrt3U1-_iMT061bsUw/edit?usp=sharing)
 
 - ⚡ Fun fact **Coding can “power up” your brain.**
 
