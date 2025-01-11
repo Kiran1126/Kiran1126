@@ -1,4 +1,4 @@
-[![MasterHead](https://png.pngtree.com/png-vector/20240320/ourmid/pngtree-coding-clipart-guy-in-glasses-computer-tech-cartoon-vector-illustration-png-image_11957889.png)]
+![MasterHead](https://png.pngtree.com/png-vector/20240320/ourmid/pngtree-coding-clipart-guy-in-glasses-computer-tech-cartoon-vector-illustration-png-image_11957889.png)
 <h1 align="center">Hi 👋, I'm Kiran Samanta</h1>
 <h3 align="center">Code, Create, Conquer | On a Mission to Innovate and Inspire.</h3>
 
