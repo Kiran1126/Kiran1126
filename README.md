@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kiransamanta945@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uSf6VfUTO2D82ivkLcugZsOnosSC-xYf/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CXV8zcIfXIdeGVWbVCyWB0WdHhlC8REJ/view?usp=sharing)
 
 - ⚡ Fun fact **Coding can “power up” your brain.**
 
